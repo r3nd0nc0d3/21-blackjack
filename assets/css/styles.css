@@ -1,0 +1,38 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #2f4f30;
+
+  color: #fff;
+}
+
+.title {
+  text-align: center;
+  background-color: black;
+  color: white;
+
+  padding: 2rem;
+  font-size: 2.5rem;
+}
+
+.btn {
+  font-size: 1.8rem;
+}
+
+.carta {
+  position: relative;
+  width: 15rem;
+  height: auto;
+  left: 10rem;
+  margin-left: -7.5rem;
+}
+
+#computadora-cartas,
+#jugador-cartas {
+  height: 24rem;
+}
